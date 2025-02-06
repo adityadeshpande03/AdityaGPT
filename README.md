@@ -13,4 +13,4 @@ In this project, the Llama 3.2 1B language model has been fine-tuned on a specif
 - **Inference**: Uploaded to Hugging Face for easy access and inference.
 - **Personalized Responses**: Model is tailored for personalized tasks and queries.
 ---
-Made with ❤️ by Adi | [GitHub Repository](https://github.com/adityadeshpande03/Atmos-AI)
+Made with ❤️ by Adi | [GitHub Repository](https://github.com/adityadeshpande03/AdityaGPT)
