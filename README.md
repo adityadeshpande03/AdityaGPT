@@ -1,11 +1,11 @@
 # Welcome to AdityaGPT🚀
 ---
 
-Welcome to AdityaGPT: A Fine-Tuned Llama 3.2 1B model! This project utilizes personal data for fine-tuning and has been successfully uploaded to Hugging Face for inference.
+Welcome to AdityaGPT: A Fine-Tuned Llama-3.2-1B-Instruct model! This project utilizes personal data for fine-tuning and has been successfully uploaded to Hugging Face for inference.
 
 ## 🧠 Overview
 
-In this project, the Llama 3.2 1B language model has been fine-tuned on a specific dataset (personal data) to improve its performance for our specific use cases. The fine-tuning process enhances the model's ability to understand and generate contextually accurate responses.
+In this project, the Llama-3.2-1B-Instruct language model has been fine-tuned on a specific dataset (personal data) to improve its performance for our specific use cases. The fine-tuning process enhances the model's ability to understand and generate contextually accurate responses.
 
 ## ⚙️ Features
 
